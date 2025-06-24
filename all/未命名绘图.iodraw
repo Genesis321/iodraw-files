@@ -31,9 +31,6 @@
         <mxCell id="b098y_K4qkBp4jPU4Qib-14" value="" style="strokeWidth=4;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="401" y="87" width="50" height="337" as="geometry" />
         </mxCell>
-        <mxCell id="b098y_K4qkBp4jPU4Qib-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="140" y="280" width="219" height="29" as="geometry" />
-        </mxCell>
         <mxCell id="b098y_K4qkBp4jPU4Qib-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="493" y="278" width="219" height="41" as="geometry" />
         </mxCell>
