@@ -37,7 +37,10 @@
         <mxCell id="b098y_K4qkBp4jPU4Qib-21" value="数据收集/样本量评估" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="156" y="279" width="211" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="b098y_K4qkBp4jPU4Qib-22" value="" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="b098y_K4qkBp4jPU4Qib-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b098y_K4qkBp4jPU4Qib-22" target="b098y_K4qkBp4jPU4Qib-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b098y_K4qkBp4jPU4Qib-22" value="数据清洗" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="156" y="326" width="211" height="31" as="geometry" />
         </mxCell>
       </root>
