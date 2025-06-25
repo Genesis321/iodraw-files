@@ -125,8 +125,8 @@
         </mxCell>
         <mxCell id="SqqjkKU-W962EXAbUYib-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#B8B9D2;strokeColor=#B8B9D2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="424" y="390" as="sourcePoint" />
-            <mxPoint x="424" y="451" as="targetPoint" />
+            <mxPoint x="423.16" y="387" as="sourcePoint" />
+            <mxPoint x="423.16" y="448" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SqqjkKU-W962EXAbUYib-67" value="" style="strokeWidth=4;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
