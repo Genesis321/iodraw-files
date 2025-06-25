@@ -81,6 +81,9 @@
         <mxCell id="SqqjkKU-W962EXAbUYib-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;全层面SHAP值分析：全局特征重要性排序/特征交互作用探索/模式行为模式总结&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="852" width="547" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="SqqjkKU-W962EXAbUYib-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;全层面SHAP值分析：全局特征重要性排序/特征交互作用探索/模式行为模式总结&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="922" width="547" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
