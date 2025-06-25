@@ -121,6 +121,12 @@
         <mxCell id="SqqjkKU-W962EXAbUYib-54" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;模型构建/模型训练&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="500" width="211" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="SqqjkKU-W962EXAbUYib-59" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;模型构建/模型训练&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="550" width="211" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="SqqjkKU-W962EXAbUYib-60" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;模型构建/模型训练&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="520" width="211" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
