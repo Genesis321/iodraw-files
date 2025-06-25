@@ -26,7 +26,7 @@
           <mxGeometry x="80" y="448" width="692" height="188" as="geometry" />
         </mxCell>
         <mxCell id="SqqjkKU-W962EXAbUYib-1" value="" style="group;fillColor=#e1d5e7;strokeColor=#000000;dashed=1;dashPattern=8 8;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="73" y="193" width="692" height="188" as="geometry" />
+          <mxGeometry x="79" y="190" width="692" height="188" as="geometry" />
         </mxCell>
         <mxCell id="b098y_K4qkBp4jPU4Qib-9" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b8b9d2;gradientColor=none;strokeColor=#82b366;" parent="SqqjkKU-W962EXAbUYib-1" vertex="1">
           <mxGeometry width="692" height="188" as="geometry" />
@@ -69,9 +69,6 @@
         <mxCell id="SqqjkKU-W962EXAbUYib-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;研究二：数据处理&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SqqjkKU-W962EXAbUYib-1">
           <mxGeometry x="9" y="8" width="160" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="SqqjkKU-W962EXAbUYib-55" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;strokeWidth=2;" vertex="1" parent="SqqjkKU-W962EXAbUYib-1">
-          <mxGeometry x="357" y="82.5" width="80" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="SqqjkKU-W962EXAbUYib-27" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="80" y="697" width="692" height="350" as="geometry" />
         </mxCell>
@@ -111,8 +108,8 @@
         <mxCell id="SqqjkKU-W962EXAbUYib-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;研究三：预测模型构建及验证&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="454" width="219" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="SqqjkKU-W962EXAbUYib-54" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;模型构建/模型训练&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="156" y="508" width="211" height="31" as="geometry" />
+        <mxCell id="SqqjkKU-W962EXAbUYib-54" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;数据划分（验证集/测试集）&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="133" y="523" width="211" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
