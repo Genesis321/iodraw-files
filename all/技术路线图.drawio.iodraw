@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
-    <mxGraphModel dx="339" dy="200" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="197" dy="116" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,10 +105,14 @@
         <mxCell id="SqqjkKU-W962EXAbUYib-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;研究四：SHAP值解析与临床应用&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SqqjkKU-W962EXAbUYib-27">
           <mxGeometry x="8" y="19" width="219" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="SqqjkKU-W962EXAbUYib-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;strokeColor=#B8B9D2;fillColor=#B8B9D2;" edge="1" parent="1">
+        <mxCell id="SqqjkKU-W962EXAbUYib-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;strokeColor=#B8B9D2;fillColor=#B8B9D2;width=12.4;endSize=6.6;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="424" y="390" as="sourcePoint" />
             <mxPoint x="425" y="448" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="424" y="420" />
+              <mxPoint x="425" y="420" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SqqjkKU-W962EXAbUYib-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;研究三：预测模型构建及验证&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
