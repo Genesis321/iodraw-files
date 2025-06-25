@@ -76,7 +76,7 @@
           <mxGeometry x="160" y="778" width="547" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SqqjkKU-W962EXAbUYib-10" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;SHAP值计算与基础解析：计算SHAP值/单样本SHAP值计算（局部解释）&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="857" width="547" height="40" as="geometry" />
+          <mxGeometry x="160" y="852" width="547" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
