@@ -108,6 +108,50 @@
         <mxCell id="SqqjkKU-W962EXAbUYib-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;研究三：预测模型构建及验证&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="86" y="454" width="219" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="SqqjkKU-W962EXAbUYib-44" value="" style="group;fillColor=#e1d5e7;strokeColor=#000000;dashed=1;dashPattern=8 8;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="89" y="200" width="692" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="SqqjkKU-W962EXAbUYib-45" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b8b9d2;gradientColor=none;strokeColor=#82b366;" vertex="1" parent="SqqjkKU-W962EXAbUYib-44">
+          <mxGeometry width="692" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="SqqjkKU-W962EXAbUYib-46" value="" style="strokeWidth=4;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="SqqjkKU-W962EXAbUYib-44">
+          <mxGeometry x="322" y="-142" width="50" height="337" as="geometry" />
+        </mxCell>
+        <mxCell id="SqqjkKU-W962EXAbUYib-47" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;数据收集/样本量评估&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="SqqjkKU-W962EXAbUYib-44">
+          <mxGeometry x="77" y="50" width="211" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="SqqjkKU-W962EXAbUYib-48" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;数据清洗/&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;数据归一化&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="SqqjkKU-W962EXAbUYib-44">
+          <mxGeometry x="77" y="97" width="211" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="SqqjkKU-W962EXAbUYib-49" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;数据划分（验证集/测试集）&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="SqqjkKU-W962EXAbUYib-44">
+          <mxGeometry x="77" y="147" width="211" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="SqqjkKU-W962EXAbUYib-50" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;特征工程：特征选择/特征构建&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SqqjkKU-W962EXAbUYib-44">
+          <mxGeometry x="457" y="50" width="133" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="SqqjkKU-W962EXAbUYib-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=classicThin;endFill=1;" edge="1" parent="SqqjkKU-W962EXAbUYib-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="182.48561797752805" y="79" as="sourcePoint" />
+            <mxPoint x="182.48561797752805" y="97" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="182.04" y="88" />
+              <mxPoint x="182.04" y="88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SqqjkKU-W962EXAbUYib-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=classicThin;endFill=1;" edge="1" parent="SqqjkKU-W962EXAbUYib-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="182.46" y="129" as="sourcePoint" />
+            <mxPoint x="182.46" y="147" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="182.46" y="139" />
+              <mxPoint x="182.46" y="139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SqqjkKU-W962EXAbUYib-53" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;研究二：数据处理&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SqqjkKU-W962EXAbUYib-44">
+          <mxGeometry x="9" y="8" width="160" height="34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
