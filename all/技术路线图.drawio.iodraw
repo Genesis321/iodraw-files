@@ -117,6 +117,9 @@
         <mxCell id="SqqjkKU-W962EXAbUYib-59" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;模型验证（训练集内验证）&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="550" width="211" height="31" as="geometry" />
         </mxCell>
+        <mxCell id="SqqjkKU-W962EXAbUYib-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SqqjkKU-W962EXAbUYib-60" target="SqqjkKU-W962EXAbUYib-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SqqjkKU-W962EXAbUYib-60" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;模型评估（测试集评估）&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="596" width="211" height="31" as="geometry" />
         </mxCell>
@@ -132,7 +135,7 @@
         <mxCell id="SqqjkKU-W962EXAbUYib-67" value="" style="strokeWidth=4;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="398.5" y="356.5" width="50" height="237" as="geometry" />
         </mxCell>
-        <mxCell id="SqqjkKU-W962EXAbUYib-68" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;模型比较与筛选&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SqqjkKU-W962EXAbUYib-68" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;模型评估可视化&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="509" y="587" width="133" height="40" as="geometry" />
         </mxCell>
       </root>
