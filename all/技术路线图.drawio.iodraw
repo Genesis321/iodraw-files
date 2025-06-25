@@ -107,10 +107,11 @@
         </mxCell>
         <mxCell id="SqqjkKU-W962EXAbUYib-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;strokeColor=#B8B9D2;fillColor=#B8B9D2;width=12.4;endSize=6.6;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="424" y="390" as="sourcePoint" />
-            <mxPoint x="425" y="448" as="targetPoint" />
+            <mxPoint x="424" y="384" as="sourcePoint" />
+            <mxPoint x="425" y="442" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="425" y="390" />
+              <mxPoint x="424" y="383" />
+              <mxPoint x="425" y="383" />
             </Array>
           </mxGeometry>
         </mxCell>
