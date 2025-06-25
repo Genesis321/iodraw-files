@@ -123,7 +123,7 @@
         <mxCell id="SqqjkKU-W962EXAbUYib-62" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;特征工程：特征选择/特征构建&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="554" y="486" width="133" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="SqqjkKU-W962EXAbUYib-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#B5D4BE;strokeColor=#B5D4BE;" edge="1" parent="1">
+        <mxCell id="SqqjkKU-W962EXAbUYib-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;fillColor=#B8B9D2;strokeColor=#B8B9D2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="424" y="390" as="sourcePoint" />
             <mxPoint x="424" y="451" as="targetPoint" />
