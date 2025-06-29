@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="66G_mpelIJEI8XduoKq4-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry y="90" width="730" height="60" as="geometry" />
+          <mxGeometry y="60" width="730" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
