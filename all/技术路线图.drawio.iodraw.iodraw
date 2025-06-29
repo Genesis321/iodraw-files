@@ -43,7 +43,7 @@
         <mxCell id="b098y_K4qkBp4jPU4Qib-32" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;数据划分（验证集/测试集）&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" parent="SqqjkKU-W962EXAbUYib-1" vertex="1">
           <mxGeometry x="77" y="147" width="211" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="b098y_K4qkBp4jPU4Qib-33" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;特征工程：特征选择/特征构建&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="SqqjkKU-W962EXAbUYib-1" vertex="1">
+        <mxCell id="b098y_K4qkBp4jPU4Qib-33" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;特征工程：特征选择（Lasso回归）&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="SqqjkKU-W962EXAbUYib-1" vertex="1">
           <mxGeometry x="457" y="50" width="133" height="128" as="geometry" />
         </mxCell>
         <mxCell id="b098y_K4qkBp4jPU4Qib-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=classicThin;endFill=1;" parent="SqqjkKU-W962EXAbUYib-1" edge="1">
