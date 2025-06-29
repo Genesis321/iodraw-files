@@ -4,93 +4,14 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CpAdKw58ku-Gq-dIPeue-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="407" y="506.0051803588867" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CpAdKw58ku-Gq-dIPeue-14" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b8b9d2;gradientColor=none;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="61" y="207" width="692" height="283" as="geometry" />
+          <mxGeometry x="61" y="207" width="692" height="498" as="geometry" />
         </mxCell>
         <mxCell id="CpAdKw58ku-Gq-dIPeue-0" value="&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 21.3333px;&quot;&gt;基于可解释性机器学习对化疗期间的肺癌患者衰弱风险预测模型构建&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f6cfaf;gradientColor=none;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="61" y="13" width="690" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CpAdKw58ku-Gq-dIPeue-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;研究一：制定纳入/排除标准，回顾文献对风险因素系统整合与预测变量构建&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;gradientDirection=north;fillColor=#f6cfaf;strokeColor=#F6CFAF;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="61" y="106" width="690" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-2" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="71" y="615" width="737" height="601" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-3" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#A9C4EB;strokeColor=#6c8ebf;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-2">
-          <mxGeometry width="692" height="601" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-4" value="" style="group" vertex="1" connectable="0" parent="CpAdKw58ku-Gq-dIPeue-2">
-          <mxGeometry x="69" y="135.65428571428572" width="547" height="431.0028571428571" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;选择最优的机器学习模型/明确研究目的结合临床实际进行解析和探讨&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-4">
-          <mxGeometry width="543" height="63.534285714285716" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-6" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;SHAP值计算与基础解析：计算SHAP值/单样本SHAP值计算（局部解释）&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-4">
-          <mxGeometry y="118.48285714285714" width="547" height="68.68571428571428" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;全层面SHAP值分析：全局特征重要性排序/特征交互作用探索/模式行为模式总结&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-4">
-          <mxGeometry y="245.55142857142854" width="547" height="68.68571428571428" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;临床应用价值探讨与验证：辅助决策优化/临床研究启发/患者个性化管理&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-4">
-          <mxGeometry y="362.31714285714287" width="547" height="68.68571428571428" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.504;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="CpAdKw58ku-Gq-dIPeue-4" source="CpAdKw58ku-Gq-dIPeue-5" target="CpAdKw58ku-Gq-dIPeue-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CpAdKw58ku-Gq-dIPeue-4" source="CpAdKw58ku-Gq-dIPeue-6" target="CpAdKw58ku-Gq-dIPeue-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CpAdKw58ku-Gq-dIPeue-4" source="CpAdKw58ku-Gq-dIPeue-7" target="CpAdKw58ku-Gq-dIPeue-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;研究四：SHAP值解析与临床应用&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-2">
-          <mxGeometry x="8" y="32.62571428571428" width="219" height="73.83714285714285" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-13" value="" style="group;fillColor=#e1d5e7;strokeColor=#000000;" vertex="1" connectable="0" parent="CpAdKw58ku-Gq-dIPeue-2">
-          <mxGeometry x="36" y="-74" width="701" height="219" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-15" value="" style="strokeWidth=4;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-13">
-          <mxGeometry x="325.1748554913295" y="-167.1622340425532" width="50.650289017341045" height="392.5691489361702" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;数据收集/样本量评估&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-13">
-          <mxGeometry x="78" y="58.24" width="215" height="33.78" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;数据清洗/&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;数据归一化&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-13">
-          <mxGeometry x="78.0014450867052" y="112.99468085106383" width="213.74421965317921" height="36.111702127659576" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-18" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;数据划分（验证集/测试集）&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-13">
-          <mxGeometry x="78.0014450867052" y="171.23936170212764" width="213.74421965317921" height="36.111702127659576" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=classicThin;endFill=1;" edge="1" parent="CpAdKw58ku-Gq-dIPeue-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="184.85898584139764" y="92.02659574468086" as="sourcePoint" />
-            <mxPoint x="184.85898584139764" y="112.99468085106383" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="184.40757225433526" y="102.51063829787235" />
-              <mxPoint x="184.40757225433526" y="102.51063829787235" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=classicThin;endFill=1;" edge="1" parent="CpAdKw58ku-Gq-dIPeue-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="184.83303468208095" y="150.27127659574467" as="sourcePoint" />
-            <mxPoint x="184.83303468208095" y="171.23936170212764" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="184.83303468208095" y="161.92021276595744" />
-              <mxPoint x="184.83303468208095" y="161.92021276595744" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;研究二：数据处理&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-13">
-          <mxGeometry x="9.117052023121389" y="9.319148936170214" width="162.08092485549133" height="39.6063829787234" as="geometry" />
-        </mxCell>
-        <mxCell id="CpAdKw58ku-Gq-dIPeue-23" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;strokeWidth=2;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-13">
-          <mxGeometry x="334.2919075144509" y="97.85106382978724" width="81.04046242774567" height="69.8936170212766" as="geometry" />
         </mxCell>
         <mxCell id="CpAdKw58ku-Gq-dIPeue-19" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;特征工程：特征选择/特征构建&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="577.0036416184971" y="273.9446808510638" width="134.72976878612718" height="149.10638297872342" as="geometry" />
