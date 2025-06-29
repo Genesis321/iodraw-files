@@ -73,25 +73,25 @@
           <mxGeometry x="330" y="84" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SqqjkKU-W962EXAbUYib-27" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="80" y="697" width="692" height="350" as="geometry" />
+          <mxGeometry x="80" y="697" width="692" height="500" as="geometry" />
         </mxCell>
         <mxCell id="b098y_K4qkBp4jPU4Qib-11" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#A9C4EB;strokeColor=#6c8ebf;" parent="SqqjkKU-W962EXAbUYib-27" vertex="1">
-          <mxGeometry width="692" height="350" as="geometry" />
+          <mxGeometry width="692" height="500" as="geometry" />
         </mxCell>
         <mxCell id="SqqjkKU-W962EXAbUYib-14" value="" style="group" parent="SqqjkKU-W962EXAbUYib-27" vertex="1" connectable="0">
-          <mxGeometry x="69" y="79" width="547" height="251" as="geometry" />
+          <mxGeometry x="69" y="112.85714285714286" width="547" height="358.57142857142856" as="geometry" />
         </mxCell>
         <mxCell id="SqqjkKU-W962EXAbUYib-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;选择最优的机器学习模型/明确研究目的结合临床实际进行解析和探讨&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="SqqjkKU-W962EXAbUYib-14" vertex="1">
-          <mxGeometry width="543" height="37" as="geometry" />
+          <mxGeometry width="543" height="52.85714285714286" as="geometry" />
         </mxCell>
         <mxCell id="SqqjkKU-W962EXAbUYib-8" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;SHAP值计算与基础解析：计算SHAP值/单样本SHAP值计算（局部解释）&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="SqqjkKU-W962EXAbUYib-14" vertex="1">
-          <mxGeometry y="69" width="547" height="40" as="geometry" />
+          <mxGeometry y="98.57142857142857" width="547" height="57.142857142857146" as="geometry" />
         </mxCell>
         <mxCell id="SqqjkKU-W962EXAbUYib-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;全层面SHAP值分析：全局特征重要性排序/特征交互作用探索/模式行为模式总结&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="SqqjkKU-W962EXAbUYib-14" vertex="1">
-          <mxGeometry y="143" width="547" height="40" as="geometry" />
+          <mxGeometry y="204.28571428571428" width="547" height="57.142857142857146" as="geometry" />
         </mxCell>
         <mxCell id="SqqjkKU-W962EXAbUYib-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;临床应用价值探讨与验证：辅助决策优化/临床研究启发/患者个性化管理&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="SqqjkKU-W962EXAbUYib-14" vertex="1">
-          <mxGeometry y="211" width="547" height="40" as="geometry" />
+          <mxGeometry y="301.42857142857144" width="547" height="57.142857142857146" as="geometry" />
         </mxCell>
         <mxCell id="SqqjkKU-W962EXAbUYib-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.504;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" parent="SqqjkKU-W962EXAbUYib-14" source="SqqjkKU-W962EXAbUYib-6" target="SqqjkKU-W962EXAbUYib-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SqqjkKU-W962EXAbUYib-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;研究四：SHAP值解析与临床应用&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="SqqjkKU-W962EXAbUYib-27" vertex="1">
-          <mxGeometry x="8" y="19" width="219" height="43" as="geometry" />
+          <mxGeometry x="8" y="27.142857142857142" width="219" height="61.42857142857143" as="geometry" />
         </mxCell>
         <mxCell id="SqqjkKU-W962EXAbUYib-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;研究三：预测模型构建及验证&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="86" y="454" width="202" height="32" as="geometry" />
