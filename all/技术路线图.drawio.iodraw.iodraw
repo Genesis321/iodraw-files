@@ -141,12 +141,6 @@
         <mxCell id="SqqjkKU-W962EXAbUYib-82" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.43415807965158515;arrowSize=0.31697614802870905;rounded=0;strokeWidth=2;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="559" y="550" width="43" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ENj2PxA9HrbX99Mqn8Lz-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="b098y_K4qkBp4jPU4Qib-10" target="b098y_K4qkBp4jPU4Qib-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="166" y="590" as="sourcePoint" />
-            <mxPoint x="222" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
