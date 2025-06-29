@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="CpAdKw58ku-Gq-dIPeue-14" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b8b9d2;gradientColor=none;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="87" y="430" width="692" height="188" as="geometry" />
+          <mxGeometry x="60" y="408" width="692" height="188" as="geometry" />
         </mxCell>
         <mxCell id="CpAdKw58ku-Gq-dIPeue-0" value="&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 21.3333px;&quot;&gt;基于可解释性机器学习对化疗期间的肺癌患者衰弱风险预测模型构建&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f6cfaf;gradientColor=none;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="61" y="13" width="690" height="60" as="geometry" />
@@ -47,7 +47,7 @@
           <mxGeometry x="8" y="32.62571428571428" width="219" height="73.83714285714285" as="geometry" />
         </mxCell>
         <mxCell id="CpAdKw58ku-Gq-dIPeue-13" value="" style="group;fillColor=#e1d5e7;strokeColor=#000000;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="63" y="169" width="701" height="219" as="geometry" />
+          <mxGeometry x="94" y="140" width="701" height="219" as="geometry" />
         </mxCell>
         <mxCell id="CpAdKw58ku-Gq-dIPeue-15" value="" style="strokeWidth=4;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-13">
           <mxGeometry x="325.1748554913295" y="-167.1622340425532" width="50.650289017341045" height="392.5691489361702" as="geometry" />
@@ -88,7 +88,7 @@
           <mxGeometry x="334.2919075144509" y="97.85106382978724" width="81.04046242774567" height="69.8936170212766" as="geometry" />
         </mxCell>
         <mxCell id="CpAdKw58ku-Gq-dIPeue-19" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;特征工程：特征选择/特征构建&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="528.0036416184971" y="443.0046808510638" width="134.72976878612718" height="149.10638297872342" as="geometry" />
+          <mxGeometry x="568.0036416184971" y="431.0046808510638" width="134.72976878612718" height="149.10638297872342" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
