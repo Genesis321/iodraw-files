@@ -8,7 +8,7 @@
           <mxGeometry x="61" y="13" width="690" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CpAdKw58ku-Gq-dIPeue-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;研究一：制定纳入/排除标准，回顾文献对风险因素系统整合与预测变量构建&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;gradientDirection=north;fillColor=#f6cfaf;strokeColor=#F6CFAF;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="61" y="73" width="690" height="43" as="geometry" />
+          <mxGeometry x="61" y="106" width="690" height="43" as="geometry" />
         </mxCell>
         <mxCell id="CpAdKw58ku-Gq-dIPeue-2" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="61" y="690" width="692" height="601" as="geometry" />
@@ -42,6 +42,53 @@
         </mxCell>
         <mxCell id="CpAdKw58ku-Gq-dIPeue-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;研究四：SHAP值解析与临床应用&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-2">
           <mxGeometry x="8" y="32.62571428571428" width="219" height="73.83714285714285" as="geometry" />
+        </mxCell>
+        <mxCell id="CpAdKw58ku-Gq-dIPeue-13" value="" style="group;fillColor=#e1d5e7;strokeColor=#000000;dashed=1;dashPattern=8 8;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="79" y="202" width="692" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="CpAdKw58ku-Gq-dIPeue-14" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#b8b9d2;gradientColor=none;strokeColor=#82b366;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-13">
+          <mxGeometry width="692" height="188" as="geometry" />
+        </mxCell>
+        <mxCell id="CpAdKw58ku-Gq-dIPeue-15" value="" style="strokeWidth=4;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-13">
+          <mxGeometry x="321" y="-143.5" width="50" height="337" as="geometry" />
+        </mxCell>
+        <mxCell id="CpAdKw58ku-Gq-dIPeue-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;数据收集/样本量评估&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-13">
+          <mxGeometry x="77" y="50" width="211" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="CpAdKw58ku-Gq-dIPeue-17" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;数据清洗/&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;数据归一化&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-13">
+          <mxGeometry x="77" y="97" width="211" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="CpAdKw58ku-Gq-dIPeue-18" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;数据划分（验证集/测试集）&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;strokeWidth=2;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-13">
+          <mxGeometry x="77" y="147" width="211" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="CpAdKw58ku-Gq-dIPeue-19" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;特征工程：特征选择/特征构建&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-13">
+          <mxGeometry x="457" y="50" width="133" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="CpAdKw58ku-Gq-dIPeue-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=classicThin;endFill=1;" edge="1" parent="CpAdKw58ku-Gq-dIPeue-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="182.48561797752805" y="79" as="sourcePoint" />
+            <mxPoint x="182.48561797752805" y="97" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="182.04" y="88" />
+              <mxPoint x="182.04" y="88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpAdKw58ku-Gq-dIPeue-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=classicThin;endFill=1;" edge="1" parent="CpAdKw58ku-Gq-dIPeue-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="182.46" y="129" as="sourcePoint" />
+            <mxPoint x="182.46" y="147" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="182.46" y="139" />
+              <mxPoint x="182.46" y="139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpAdKw58ku-Gq-dIPeue-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;研究二：数据处理&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-13">
+          <mxGeometry x="9" y="8" width="160" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="CpAdKw58ku-Gq-dIPeue-23" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;rounded=0;strokeWidth=2;" vertex="1" parent="CpAdKw58ku-Gq-dIPeue-13">
+          <mxGeometry x="330" y="84" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
